@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm <span style="color:#3498db;">Ashok</span> 👋</h1>
+<h1 align="center">Hey, I'm Ashok 👋</h1>
 
 <p align="center">
-  <strong>💻 Python / React Developer</strong><br>
-  🧠 Passionate about ML, backend systems, and writing clean, efficient code<br>
+  💻 <strong>Python / React Developer</strong><br>
+  🧠 Into ML, backend systems, and writing clean code<br>
   🔧 Learning by building, breaking, and fixing
 </p>
 
@@ -10,51 +10,39 @@
 
 ### 🧩 Tech I Work With
 
-<table>
-  <tr>
-    <td><strong>🐍 Python</strong></td>
-    <td>
-      • Pandas, NumPy, Matplotlib, Seaborn<br>
-      • Flask (exploring FastAPI & Django)<br>
-      • Data cleaning, analysis, basic ML (scikit-learn)
-    </td>
-  </tr>
-  <tr>
-    <td><strong>⚛️ React</strong></td>
-    <td>
-      • ReactJS, React Hooks, State Management<br>
-      • Building fast and clean UIs
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tools</strong></td>
-    <td>
-      • Git & GitHub, VS Code<br>
-      • SQL, Linux, JSON, CSV
-    </td>
-  </tr>
-</table>
+#### 🐍 Python
+- 🧪 Pandas, NumPy, Matplotlib, Seaborn
+- 🌐 Flask (dabbling in FastAPI & Django)
+- 📊 Data cleaning, analysis, ML (scikit-learn)
+
+#### ⚛️ React
+- ⚡ ReactJS, Tailwind, state management
+- 🎯 Focused on clean, responsive UIs
+
+#### 🧰 Tools
+- 🛠 Git & GitHub, VS Code
+- 🗃 SQL, Linux, JSON, CSV
 
 ---
 
 ### 🚧 What I’m Working On
-- 🚀 Building mini projects with **Python + React**
-- 🧪 Exploring ML workflows & model training
-- 🛠️ Playing with backend using **Flask**
+- 🐍 Python + ⚛️ React mini-projects
+- 🤖 Learning ML theory + real-world workflows
+- 🧪 Backend experiments using Flask
 
 ---
 
 ### 🔍 Interests
-- 🤖 Machine learning, AI in the real world
-- 🎨 Clean, responsive UI that *feels* fast
-- 👾 Anime, gacha games & otaku culture
+- 🧠 AI, Machine Learning
+- 🖥 Clean UI with snappy UX
+- 🎌 Anime, gacha games, otaku culture
 
 ---
 
-### 🐦 Find Me Online
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pakkiashok/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashok-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
