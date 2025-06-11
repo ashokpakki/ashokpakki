@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Ashok 👋</h1>
 
 <p align="center">
-  💻 <strong>Python / React Developer</strong><br>
-  🧠 Into ML, backend systems, and writing clean code<br>
+  💻 <strong>Python Developer</strong><br>
+  🧠 Into AI, ML, backend systems, and writing clean code<br>
   🔧 Learning by building, breaking, and fixing
 </p>
 
@@ -13,7 +13,7 @@
 #### 🐍 Python
 - 🧪 Pandas, NumPy, Matplotlib, Seaborn
 - 🌐 Flask (dabbling in FastAPI & Django)
-- 📊 Data cleaning, analysis, ML (scikit-learn)
+- 📊 CloverDX, Data cleaning, analysis, ML (scikit-learn)
 
 #### ⚛️ React
 - ⚡ ReactJS, Tailwind, state management
@@ -21,12 +21,12 @@
 
 #### 🧰 Tools
 - 🛠 Git & GitHub, VS Code
-- 🗃 SQL, Linux, JSON, CSV
+- 🗃 CloverDX, SQL, Linux, JSON, CSV
 
 ---
 
 ### 🚧 What I’m Working On
-- 🐍 Python + ⚛️ React mini-projects
+- 🐍 Python and Data Engineering
 - 🤖 Learning ML theory + real-world workflows
 - 🧪 Backend experiments using Flask
 
@@ -34,7 +34,7 @@
 
 ### 🔍 Interests
 - 🧠 AI, Machine Learning
-- 🖥 Clean UI with snappy UX
+- 🖥 Optimizing data flows
 - 🎌 Anime, gacha games, otaku culture
 
 ---
