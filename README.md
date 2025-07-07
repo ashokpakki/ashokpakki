@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Ashok 👋</h1>
 
 <p align="center">
-  💻 <strong>Python Developer</strong><br>
-  🧠 Into AI, ML, backend systems, and writing clean code<br>
+  💻 <strong>Java Full Stack Developer</strong><br>
+  🧠 Into Web Developmnt, backend systems, and writing clean code<br>
   🔧 Learning by building, breaking, and fixing
 </p>
 
@@ -10,30 +10,28 @@
 
 ### 🧩 Tech I Work With
 
-#### 🐍 Python
-- 🧪 Pandas, NumPy, Matplotlib, Seaborn
-- 🌐 Flask (dabbling in FastAPI & Django)
-- 📊 CloverDX, Data cleaning, analysis, ML (scikit-learn)
+#### 🐍 JAVA 
+- 🧪 Spring Boot, MySQL
+- 🌐 RESTful APIs
 
 #### ⚛️ React
-- ⚡ ReactJS, Tailwind, state management
+- ⚡ ReactJS, Material UI, state management
 - 🎯 Focused on clean, responsive UIs
 
 #### 🧰 Tools
 - 🛠 Git & GitHub, VS Code
-- 🗃 CloverDX, SQL, Linux, JSON, CSV
 
 ---
 
 ### 🚧 What I’m Working On
-- 🐍 Python and Data Engineering
-- 🤖 Learning ML theory + real-world workflows
-- 🧪 Backend experiments using Flask
+- 🐍 JAVA and Backend Developement
+- 🤖 Building projects and real-world workflows
+- 🧪 Backend experiments using Spring Boot
 
 ---
 
 ### 🔍 Interests
-- 🧠 AI, Machine Learning
+- 🧠 Backend Developement
 - 🖥 Optimizing data flows
 - 🎌 Anime, gacha games, otaku culture
 
