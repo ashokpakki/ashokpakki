@@ -32,8 +32,7 @@
 
 ### 🔍 Interests
 - 🧠 Backend Developement
-- 🖥 Optimizing data flows
-- 🎌 Anime, gacha games, otaku culture
+- 🖥 Optimizing code flow
 
 ---
 
