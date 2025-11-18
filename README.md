@@ -15,7 +15,7 @@
 - 🌐 RESTful APIs
 
 #### ⚛️ React
-- ⚡ ReactJS, Material UI, state management
+- ⚡ ReactJS, Tailwindcss, Material UI, state management
 - 🎯 Focused on clean, responsive UIs
 
 #### 🧰 Tools
